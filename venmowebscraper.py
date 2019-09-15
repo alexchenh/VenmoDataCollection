@@ -11,7 +11,7 @@ f.writerow(['Name1', 'Link1', 'Name2', 'Link2', 'Comment', 'Date'])
 
 # Instantiate list of pages
 pages = []
-pages.append('https://venmo.com/Ugonna-Agbafe') # Seed URL
+pages.append('https://venmo.com/USERNAME_HERE') # Seed URL
 
 for item in pages:
 
